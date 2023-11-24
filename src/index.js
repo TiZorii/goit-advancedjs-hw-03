@@ -109,3 +109,4 @@ function handleOption(evt) {
       textError.classList.remove('hidden');
     });
 }
+
